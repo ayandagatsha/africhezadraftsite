@@ -4,7 +4,7 @@ export default function EventsPage() {
     return (
         <Layout
         title='Events'>
-            <h1>Where users will get to connect with Africheza</h1>
+            <h1>Where users get to connect with Africheza</h1>
         </Layout>
     )
 }
